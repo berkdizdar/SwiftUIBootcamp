@@ -57,8 +57,8 @@ struct SheetsBootcamp: View {
     
     struct SheetsBootcamp_Previews: PreviewProvider {
         static var previews: some View {
-            SheetsBootcamp()
-            //SecondScreen()
+            //SheetsBootcamp()
+            SecondScreen()
         }
     }
 
